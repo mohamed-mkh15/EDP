@@ -26,7 +26,7 @@ The assignments are about the following topics:
 + **Assignment 8:** Development of optimal smoothing to increase the estimation accuracy.
 + **Assignment 9:** Tracking and forecasting in conditions of measurement gaps.
 + **Assignment 10:** Development of tracking filter of a moving object when measurements and motion model are in different coordinate systems.
-  1.. Instability zone of a tracking filter due to ill-conditioned coordinate transformations of measurements.
+  1. Instability zone of a tracking filter due to ill-conditioned coordinate transformations of measurements.
 + **Assignment 11:** Extended Kalman filter for navigation and tracking.
 + **Assignment 12:** Joint assimilation of navigation data coming from different sources.
 + **Assignment 13:** Vehicle tracking based on GPS and odometry data fusion.
