@@ -10,8 +10,8 @@ The assignments are about the following topics:
 
 + **Assignment 1:** Relationship between solar radio flux F10.7 and sunspot number.
 + **Assignment 2:** Comparison of exponential and running mean for random walk model.
-  * I. Determination of optimal smoothing constant in exponential mean.
-  * II. Comparison of methodical errors of exponential and running mean.
+  I. Determination of optimal smoothing constant in exponential mean.
+  II. Comparison of methodical errors of exponential and running mean.
 + **Assignment 3:** Determining and removing drawbacks of exponential and running mean. Task 1:
               * I. Backward exponential smoothing.
               * II. Drawbacks of running mean.
